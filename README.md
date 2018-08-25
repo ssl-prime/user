@@ -29,7 +29,5 @@ verificationCode: number
 }
   start api :
   go run main.go
-  
-  sry  i didn't match your deadline..
 
   
